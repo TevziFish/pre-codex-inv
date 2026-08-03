@@ -4,6 +4,6 @@
 *Group/Faction Alias: Codex Connect*
 
 You may fork this, if you wish, or just download it with:
-`
+```
 git clone https://github.com/TevziFish/pre-codex-inv.git
-`
+```
